@@ -19,6 +19,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfFigures", "AreaOfFigu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyShop", "ToyShop\ToyShop.csproj", "{18559D3A-C80A-4DC0-BEC4-40CE378882E9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{C6229CDD-0BE2-4E8C-B5B5-26CDD2AEDDE4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\03.3 PB-CSharp-Conditional-Statements-Lab.docx = ..\..\..\Downloads\03.3 PB-CSharp-Conditional-Statements-Lab.docx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
